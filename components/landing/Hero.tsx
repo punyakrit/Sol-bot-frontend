@@ -17,7 +17,13 @@ function Hero() {
           SolBot makes token trading effortless. From wallet creation to
           real-time swaps, everything happens fast — right from Discord.
         </p>
-
+        <div className="mx-auto flex justify-center mt-10">
+          <Button variant="primary">
+            <a href="https://discord.gg/K5AD8DtbWE">
+              Join Discord Server to Check out Bot !!
+            </a>
+          </Button>
+        </div>
 
         <form className=" flex border border-white/15 rounded-full p-2 mt-8  justify-between max-w-lg mx-auto">
           <input
@@ -25,15 +31,10 @@ function Hero() {
             type="email"
             placeholder="Enter your email"
           ></input>
-          <Button
-            variant="primary"
-            type="submit"
-            className="whitespace-normal"
-          >
+          <Button variant="primary" type="submit" className="whitespace-normal">
             Join the Beta
           </Button>
         </form>
-
       </div>
     </section>
   );
