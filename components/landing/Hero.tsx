@@ -28,7 +28,6 @@ function Hero() {
           <Button
             variant="primary"
             type="submit"
-            size="sm"
             className="whitespace-normal"
           >
             Join the Beta
