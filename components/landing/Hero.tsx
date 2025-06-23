@@ -19,7 +19,7 @@ function Hero() {
         </p>
         <div className="mx-auto flex justify-center mt-10">
           <Button variant="primary">
-            <a href="https://discord.gg/K5AD8DtbWE">
+            <a href="https://discord.gg/FB5g83uBzb">
               Join Discord Server to Check out Bot !!
             </a>
           </Button>
